@@ -1,0 +1,11 @@
+html {
+  background-color: rgb(18, 140, 170);
+  text-align: center;
+}
+h1 {
+  font-size: 50px;
+  color: red;
+}
+section {
+  font-size: 30px;
+}
